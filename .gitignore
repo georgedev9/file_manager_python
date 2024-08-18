@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/File Manager/*
+!/File Manager/task/
+/File Manager/task/*
+!/File Manager/task/manager.py
